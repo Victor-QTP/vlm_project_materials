@@ -96,14 +96,14 @@ Multimodal RAG vehicle search using CLIP embeddings, Qwen2-VL captioning, and Qd
 ## 📁 Awards & Certificates
 
 - [README](Awards_and_certificates/README.md)
-- 🏆 [Best Paper Award — ICICT 2026 (PDF)](Awards_and_certificates/ICICT_26_BestPaperAward_r.pdf)
+- 🏆 [Best Paper Award — ICICT 2026 (certificate, scanned PDF)](Awards_and_certificates/ICICT_26_BestPaperAward_r.pdf)
 - [Paper — ICICT 2026 (PDF)](Awards_and_certificates/icict2026-48.pdf)
 - [KIT Bio Tech & IT Spring School Certificate](Awards_and_certificates/Certificate_KIT_BioTech_IT_Spring_School%20.pdf)
 - [KIT Global Human Resource Development Certificate](Awards_and_certificates/KIT_Certificate%20of%20Completion_PHAN%20QUOC%20THANG.pdf)
 - [Yanmar Agri R&D Internship Certificate](Awards_and_certificates/Certificate-Yanmar.pdf)
 - [IELTS Certificate](Awards_and_certificates/IELTS-Thang0001.pdf)
 
-[![Best Paper Award — ICICT 2026](Awards_and_certificates/CICT_26_BestPaperAward_r.pdf)](Awards_and_certificates/CICT_26_BestPaperAward_r.pdf)
+[![Best Paper Award — ICICT 2026](Awards_and_certificates/ICICT_26_bestpaper.jpg)](Awards_and_certificates/ICICT_26_bestpaper.jpg)
 
 ---
 

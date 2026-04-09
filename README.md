@@ -103,7 +103,7 @@ Multimodal RAG vehicle search using CLIP embeddings, Qwen2-VL captioning, and Qd
 - [Yanmar Agri R&D Internship Certificate](Awards_and_certificates/Certificate-Yanmar.pdf)
 - [IELTS Certificate](Awards_and_certificates/IELTS-Thang0001.pdf)
 
-[![Best Paper Award — ICICT 2026](Awards_and_certificates/ICICT_26_bestpaper.jpg)](Awards_and_certificates/ICICT_26_bestpaper.jpg)
+[![Best Paper Award — ICICT 2026](Awards_and_certificates/CICT_26_BestPaperAward_r.pdf)](Awards_and_certificates/CICT_26_BestPaperAward_r.pdf)
 
 ---
 

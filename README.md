@@ -10,7 +10,9 @@ A lightweight **YOLOv8-Nano** model was trained **entirely** on high-quality ann
 
 [![YOLOv8 Nano Distillation Demo](https://img.youtube.com/vi/2HwbL51p-HM/0.jpg)](https://www.youtube.com/watch?v=2HwbL51p-HM)
 
-*(Click on the image to watch the real-time inference demonstration)*
+https://www.youtube.com/watch?v=2HwbL51p-HM
+
+*(Click on the image or YouTube link to watch the real-time inference demonstration)*
 
 ### Hardware Benchmarking & Edge Projections
 Currently running via the Ultralytics Python runtime.
@@ -18,6 +20,9 @@ Currently running via the Ultralytics Python runtime.
 | :--- | :--- | :--- | :--- | :--- |
 | **Local Baseline** | PyTorch (.pt,auto) | RTX 3090 | ~4.5ms | **200 - 230 FPS** |
 | **Edge Target** | TensorRT (FP16) | Jetson Orin Nano 8GB | ~20-25ms | **~40 - 50 FPS** |
+
+Video credit:
+https://www.youtube.com/watch?v=P8Uh9f0EaU8
 
 ---
 
